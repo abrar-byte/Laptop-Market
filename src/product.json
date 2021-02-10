@@ -1,92 +1,44 @@
 [
   {
-    "nama": "Kaos",
-    "detail": "Kaos distro dalam negeri kualitas wahid",
-    "harga": 120000,
-    "gambar": "./gambar/Kaos.jpg"
+    "nama": "Lenovo Thinkpad x230i",
+    "detail": "Core i3-3120M 2.5Ghz",
+    "ket" : "ram 4 hdd 320gb",
+    "harga": 2300000,
+    "gambar": "./gambar/Thinkpad.jpeg"
   },
   {
-    "nama": "Celana",
-    "detail": "Celana distro dalam negeri kualitas wahid",
-    "harga": 300000,
-    "gambar": "./gambar/Celana.jpg"
+    "nama": "Dell Precission 5520",
+    "detail": "Core i7-7820HQ 2.9GHz",
+    "ket" : "Ram 16Gb, Ssd 512Gb",
+    "harga": 14300000,
+    "gambar": "./gambar/Dell.jpeg"
   },
   {
-    "nama": "Jaket",
-    "detail": "Jaket distro dalam negeri kualitas wahid",
-    "harga": 600000,
-    "gambar": "./gambar/Jaket.jpg"
+    "nama": "Toshiba dynabok R734/M",
+    "detail": "Core i3-4000M 2.4Ghz",
+    "ket" : "Ram 4Gb, Hdd 320Gb",
+    "harga": 2850000,
+    "gambar": "./gambar/Toshiba.jpeg"
   },
   {
-    "nama": "Sweater",
-    "detail": "Sweater distro dalam negeri kualitas wahid",
-    "harga": 250000,
-    "gambar": "./gambar/Sweater.jpg"
+    "nama": "Apple Macbook Air, Early 2014",
+    "detail": "Core i5 1.4GHz",
+    "ket" : "Ram 4GB Ssd 256GB",
+    "harga": 6100000,
+    "gambar": "./gambar/Apple.jpeg"
   },
   {
-    "nama": "Gamis",
-    "detail": "Gamis distro dalam negeri kualitas wahid",
-    "harga": 800000,
-    "gambar": "./gambar/Gamis.jpg"
+    "nama": "Acer Travelmate P249-M",
+    "detail": "Core i5-7200U 2.7GHz",
+    "ket" : "Ram 8Gb Hdd 1000Gb",
+    "harga": 4800000,
+    "gambar": "./gambar/Acer.jpeg"
   },
   {
-    "nama": "PSH",
-    "detail": "PSH distro dalam negeri kualitas wahid",
-    "harga": 1000000,
-    "gambar": "./gambar/PSH.jpg"
-  },
-  {
-    "nama": "Kerudung",
-    "detail": "Kerudung distro dalam negeri kualitas wahid",
-    "harga": 250000,
-    "gambar": "./gambar/Kerudung.jpg"
-  },
-  {
-    "nama": "Koko",
-    "detail": "Koko distro dalam negeri kualitas wahid",
-    "harga": 450000,
-    "gambar": "./gambar/Koko.jpg"
-  },
-  {
-    "nama": "Songkok",
-    "detail": "Songkok distro dalam negeri kualitas wahid",
-    "harga": 150000,
-    "gambar": "./gambar/Songkok.jpg"
-  },
-  {
-    "nama": "Rukuh",
-    "detail": "Rukuh distro dalam negeri kualitas wahid",
-    "harga": 500000,
-    "gambar": "./gambar/Rukuh.jpg"
-  },
-  {
-    "nama": "Kemeja",
-    "detail": "Kemeja distro dalam negeri kualitas wahid",
-    "harga": 950000,
-    "gambar": "./gambar/Kemeja.jpg"
-  },
-  {
-    "nama": "Dasi",
-    "detail": "Dasi distro dalam negeri kualitas wahid",
-    "harga": 75000,
-    "gambar": "./gambar/Dasi.jpg"
-  },
-  {
-    "nama": "Topi",
-    "detail": "Topi distro dalam negeri kualitas wahid",
-    "harga": 150000,
-    "gambar": "./gambar/Topi.jpg"
-  },
-  {
-    "nama": "Sarung",
-    "detail": "Sarung distro dalam negeri kualitas wahid",
-    "harga": 250000,
-    "gambar": "./gambar/Sarung.jpg"
-  },
-  {
-    "nama": "Peci",
-    "detail": "Peci distro dalam negeri kualitas wahid",
-    "harga": 150000,
-    "gambar": "./gambar/Peci.jpg"
+    "nama": "Lenovo K20",
+    "detail": "Core i3-5020U 2.2GHz",
+    "ket" : "Ram 4GB Hdd 500Gb",
+    "harga": 3100000,
+    "gambar": "./gambar/Lenovo K20.jpeg"
   }
 ]

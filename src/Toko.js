@@ -82,15 +82,15 @@ class Home extends Component {
         <Row>
           <Col>
             <Navbar bg="dark" variant="dark">
-              <Navbar.Brand href="#home">E-Toko</Navbar.Brand>
+              <Navbar.Brand href="#home">Byte Market</Navbar.Brand>
             </Navbar>
           </Col>
         </Row>
         <Row>
-          <Col sm={8}>
+          <Col sm={7}>
             <Product detailProduct={this.state.detailProduct} onAdd={this.onAdd} />
           </Col>
-          <Col sm={4}>
+          <Col sm={5}>
             <br />
             {<Summary Summary={this.state.Summary} onRemove={this.onRemove} onAdd={this.onAdd} />}
             <ButtonGroup aria-label="Basic example">
@@ -135,10 +135,13 @@ class Product extends Component {
                   {item.detail}
                 </Card.Text>
                 <Card.Text>
+                  <i>{item.ket}</i>
+                </Card.Text>
+                <Card.Text>
                   <strong>Rp {item.harga.toLocaleString()}</strong>
                 </Card.Text>
                 {/* <Button onClick={() => this.props.onAdd(item)} variant="primary">Tambahkan</Button> */}
-              </Card.Body>
+                </Card.Body>
             </button>
           </Card>
         )}
